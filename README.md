@@ -1,1 +1,2 @@
 # HangMan-project
+# install choose
